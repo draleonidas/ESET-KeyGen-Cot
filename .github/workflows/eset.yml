@@ -1,4 +1,4 @@
-name: CongTy
+name: GenESET
 
 on:
   workflow_dispatch:
